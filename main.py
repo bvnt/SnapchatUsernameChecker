@@ -65,7 +65,7 @@ banner = """
                     ▐█▄▪▐███▐█▌▐█ ▪▐▌▐█▪·•▐███▌██▌▐▀▐█ ▪▐▌ ▐█▌·    ▐███▌██▌▐▀▐█▄▄▌▐███▌▐█.█▌▐█▄▄▌▐█•█▌
                     ▀▀▀▀ ▀▀ █▪ ▀  ▀ .▀   ·▀▀▀ ▀▀▀ · ▀  ▀  ▀▀▀     ·▀▀▀ ▀▀▀ · ▀▀▀ ·▀▀▀ ·▀  ▀ ▀▀▀ .▀  ▀
 
-                                                     yuxontop
+                                                     ky
                 """.replace('.', Fore.RED+'.'+Fore.YELLOW).replace('▪', Fore.RED+'▪'+Fore.YELLOW).replace('·', Fore.RED+'·'+Fore.YELLOW)
 
 def get_random_string(lenght):
